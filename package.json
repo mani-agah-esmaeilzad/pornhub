@@ -1,0 +1,20 @@
+{
+  "name": "pornhub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "https": "^1.0.0",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "nodemon": "^3.1.0",
+    "pornhub.js": "^1.12.0"
+  }
+}
